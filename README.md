@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rehan Padlak</h1>
+<div align="center">
+
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rehan+%F0%9F%91%8B;Full-Stack+Developer;I+build+clean%2C+performant+web+apps" alt="Typing SVG" />
+
+<!-- Badges -->
+<a href="https://github.com/Aklent">
+  <img src="https://komarev.com/ghpvc/?username=Aklent&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</a>
 <h3 align="center">An aspiring Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
 - 🌱 Currently learning **Data Structures & Algorithms (C++)** and **Full-Stack Development (MERN)**  
